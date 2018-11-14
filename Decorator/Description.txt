@@ -1,0 +1,7 @@
+Patrón Decorador
+Añade comportamientos específicos en la instancia de una clase en lugar de
+adjuntarlos al objeto.
+
+proporciona una alternativa flexible a la herencia para extender funcionalidades.
+
+Extender la funcionalidad de una instancia sin tener que modificar la clase base.

@@ -1,0 +1,8 @@
+Singleton
+
+restringe la instanciación de un objeto de determinada clase.
+utíl para crear un objeto para controlar las acciones en la aplicación
+
+es reconocido como un antipatrón
+
+recomendable emplear inyección de dependencias en vez de singleton.

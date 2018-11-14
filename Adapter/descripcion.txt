@@ -1,0 +1,5 @@
+Adapter pattern
+
+sirve para hacer que las clases existentes funcionen sin modificar sus contenidos.
+
+adaptar varias clases a una funcionalidad común sin cambiar las estructuras de las clases

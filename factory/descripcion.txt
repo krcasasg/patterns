@@ -1,0 +1,6 @@
+Factory Pattern
+
+define una interfaz para crear un objeto, pero deja a las subclases decidir que
+clase instancias.
+
+Permite a una clase (Fábrica) ceder la instanciación de las subclases (productos).

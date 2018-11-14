@@ -1,0 +1,9 @@
+Strategy pattern
+
+permite que el comportamiento de un algoritmo se ejecute en tiempo de ejecución
+el patrón define una familia de algoritmos bajo el mismo nombre de método.
+
+De esta forma el algortimo idependientemente de los clientes que lo usen.
+
+se usa cuando se necesita añadir diferentes comportamientos de forma dinámica entre diferentes
+tipos de objetos.
